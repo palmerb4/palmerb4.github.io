@@ -212,12 +212,6 @@ redirect_from:
 
 ---
 
-<!-- <h1 style="color: var(--global-heading-color);">COMPUTATIONAL STRENGTHS</h1>
-
-<strong>Programming:</strong> C++, Python, MATLAB, OpenMP, MPI, Kokkos  
-<strong>Open-source libraries:</strong> Trilinos, ArborX, Paraview, VTK, PVFMM, Walberla, Eigen, Boost  
-<strong>Software management:</strong> TriBITS, CI via GitHub Actions, Automated PR testing, GTEST, CTEST -->
-
 <h1 style="color: var(--global-heading-color);">COMPUTATIONAL EXPERTISE</h1>
 
 <h3 style="color: var(--global-secondary-color); margin-top: 1rem;">Scientific Software Architecture</h3>
