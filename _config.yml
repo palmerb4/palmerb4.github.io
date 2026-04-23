@@ -22,7 +22,7 @@ repository               : "palmerb4/palmerb4.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Bryce Palmer"
   pronouns         : # example: "she/her"  
   bio              : "Mechanical Engineer · Computational Mathematician · Researcher"
